@@ -2,7 +2,7 @@
 	
 	function srednia($a, $b)
 	{
-		return 0.9*$a + 0.3*$b;
+		return 0.7*$a + 0.6*$b;
 	}
 	
 ?>	
